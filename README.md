@@ -2,7 +2,7 @@
 
 A Quest-based mod checker for **Gorilla Tag** that helps identify players who may be using mods, cheats, or other unfair modifications.
 
-![GTAG Mod Checker Banner](images/your-image.png)
+![GTAG Mod Checker Banner](images/pizza.png)
 
 ## 📱 About
 
@@ -23,8 +23,6 @@ A Quest-based mod checker for **Gorilla Tag** that helps identify players who ma
 3. Install the Mod Checker APK.
 
 ## 📸 Screenshots
-
-Add your own screenshots below!
 
 | Main Menu | Mod Checker |
 |:---:|:---:|
